@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/brago/static/css/main.8e0df00a.chunk.css",
+    "main.js": "/brago/static/js/main.5cbe8429.chunk.js",
+    "main.js.map": "/brago/static/js/main.5cbe8429.chunk.js.map",
+    "runtime-main.js": "/brago/static/js/runtime-main.38a83f58.js",
+    "runtime-main.js.map": "/brago/static/js/runtime-main.38a83f58.js.map",
+    "static/css/2.93831474.chunk.css": "/brago/static/css/2.93831474.chunk.css",
+    "static/js/2.d8e912b5.chunk.js": "/brago/static/js/2.d8e912b5.chunk.js",
+    "static/js/2.d8e912b5.chunk.js.map": "/brago/static/js/2.d8e912b5.chunk.js.map",
+    "static/js/3.b791e0f7.chunk.js": "/brago/static/js/3.b791e0f7.chunk.js",
+    "static/js/3.b791e0f7.chunk.js.map": "/brago/static/js/3.b791e0f7.chunk.js.map",
+    "index.html": "/brago/index.html",
+    "static/css/2.93831474.chunk.css.map": "/brago/static/css/2.93831474.chunk.css.map",
+    "static/css/main.8e0df00a.chunk.css.map": "/brago/static/css/main.8e0df00a.chunk.css.map",
+    "static/js/2.d8e912b5.chunk.js.LICENSE.txt": "/brago/static/js/2.d8e912b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38a83f58.js",
+    "static/css/2.93831474.chunk.css",
+    "static/js/2.d8e912b5.chunk.js",
+    "static/css/main.8e0df00a.chunk.css",
+    "static/js/main.5cbe8429.chunk.js"
+  ]
+}
