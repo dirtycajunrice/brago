@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/brago/static/css/main.d5df8fe9.chunk.css",
-    "main.js": "/brago/static/js/main.0b92acf4.chunk.js",
-    "main.js.map": "/brago/static/js/main.0b92acf4.chunk.js.map",
+    "main.js": "/brago/static/js/main.c5a0a3fb.chunk.js",
+    "main.js.map": "/brago/static/js/main.c5a0a3fb.chunk.js.map",
     "runtime-main.js": "/brago/static/js/runtime-main.0ed30aa6.js",
     "runtime-main.js.map": "/brago/static/js/runtime-main.0ed30aa6.js.map",
     "static/css/2.786ae0dd.chunk.css": "/brago/static/css/2.786ae0dd.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.786ae0dd.chunk.css",
     "static/js/2.01c03371.chunk.js",
     "static/css/main.d5df8fe9.chunk.css",
-    "static/js/main.0b92acf4.chunk.js"
+    "static/js/main.c5a0a3fb.chunk.js"
   ]
 }
